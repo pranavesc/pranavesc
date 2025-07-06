@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Drone CV Systems!**
 
-- 🌱 I’m currently learning **Computer Science (and how to do a backflip)**
+- 🌱 I’m currently learning **Computer Science (and how to do fly!)**
 
 - 💬 Ask me about **Data Structures and the latest in F1!**
 
 - 📫 How to reach me **cs.pranav.tech@gmail.com**
 
-- ⚡ Fun fact **I've been an F1 fan, for over a decade!**
+- ⚡ Fun fact **I am a drummer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

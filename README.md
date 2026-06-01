@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hey%20There!&textBg=false&desc=You've%20reached%20my%20GitHub&descAlignY=67"/>
 </p>
 <h1 align="center">I'm Pranav👻</h1>
-<h3 align="center">A student dev, interning at EY!</h3>
+<h3 align="center">A student dev, a junior @ ASU</h3>
 
 - 🔭 I’m currently working on **Drone CV Systems!**
 
-- 🌱 I’m currently learning **Computer Science (and how to do fly!)**
+- 🌱 I’m currently learning **Computer Science (and how to fly!)**
 
 - 💬 Ask me about **Data Structures and the latest in F1!**
 
